@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InitialScreen</string>
+    <string name="text">Hello, Android</string>
+    <string name="email_icon">Email icon</string>
+    <string name="icon_password">Icon Password</string>
+    <string name="login">Login</string>
+    <string name="Create_Acount">Create acount</string>
+    <string name="create_acount">Create acount</string>
+    <string name="i_have_an_account">I have an account</string>
+</resources>
